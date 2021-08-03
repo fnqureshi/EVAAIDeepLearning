@@ -1,0 +1,4 @@
+angry
+happy
+not face
+sad
